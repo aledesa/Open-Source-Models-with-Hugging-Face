@@ -7,4 +7,4 @@ These notes are for my own backups and for future readings. All mistakes are my 
 
 Notebooks are taken as they appear or modified from the ones on the course website.
 
-<img src="hugging_face.png" width="400px" />
+<img src="images/hugging_face.png" width="400px" />
